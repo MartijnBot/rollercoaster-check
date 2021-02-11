@@ -8,7 +8,7 @@ def get():
  |H|        .--.      .:'   `:.
  |H|`.     /||||\     ||     ||
  |\\||:. .'||||||`.   `:.   .:'
- |:`:.--'||||||||||`--..`=:='...                                                      
+ |:`:.--'||||||||||`--..`=:='...
 """,
 
 """
@@ -37,7 +37,7 @@ def get():
 
     ]
 
-    return coasters[1]
+    return coasters[2]
 
     #TODO: use random.choice instead
     #return random.choice(coaster)
